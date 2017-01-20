@@ -10,12 +10,5 @@
         "cordova-plugin-whitelist@1.2.2",
         "cordova-plugin-splashscreen@3.2.2",
         "cordova-custom-config@2.0.3"
-    ],
-    "title-ja": "",
-    "title-en": "",
-    "description-ja": "",
-    "description-en": "",
-    "category": "User Template",
-    "platform": [],
-    "name": "generated-1482816145-584d9045803451f0376b93cb"
+    ]
 }
